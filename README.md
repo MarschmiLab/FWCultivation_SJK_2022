@@ -2,4 +2,8 @@
 
 Summer of 2022 Lab Project at Cornell University By: Sam Katz
 
-The project will focus on cultivating freshwater microbes from local lakes/rivers. 
+The project will focus on cultivating particle associated freshwater microbes around chitin micro-particles from Beebe Lake. 
+
+
+
+Project Reflections:
